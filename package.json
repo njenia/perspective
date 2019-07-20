@@ -1,0 +1,24 @@
+{
+  "name": "perspective",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/njenia/perspective.git"
+  },
+  "author": "njenia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njenia/perspective/issues"
+  },
+  "homepage": "https://github.com/njenia/perspective#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "lodash": "^4.17.15",
+    "prompt-sync": "^4.1.7"
+  }
+}
